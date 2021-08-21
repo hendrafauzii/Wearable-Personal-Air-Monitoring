@@ -4,16 +4,37 @@
 ## Daftar Isi
  - [Daftar Isi](#Daftar-isi)  
  - [Deskripsi](#Deskripsi) 
+ - [Library depedency](#Library-depedency)
  - [PCB Design](#PCB-Design) 
  - [Bill of Materials](#BOMs) 
 
+
 ## Deskripsi
-Alat ini dirancang menyerupai sebuah jam tangan bagi penderita sinusitis yang sensitif terhadap perubahan udara. Terdapat beberapa sensor yang digunakan diantaranya  sensor BME280 sebagai pengukuran suhu, kelembapan, dan tekanan udara secara real time, dan MAX30105 sebagai sensor tambahan yang berfungsi untuk mengukur detak jantung. Alat ini akan memberikan notifikasi ketika kondisi udara tidak ideal bagi penderita sinusitis.
+Perangkat ini dirancang menyerupai sebuah jam tangan bagi penderita sinusitis yang sensitif terhadap perubahan udara. Terdapat beberapa sensor yang digunakan diantaranya  sensor BME280 sebagai pengukuran suhu, kelembapan, dan tekanan udara secara real time, dan MAX30105 sebagai sensor tambahan yang berfungsi untuk mengukur detak jantung. Alat ini akan memberikan notifikasi ketika kondisi udara tidak ideal bagi penderita sinusitis.
+
+
+## Library depedency
+Perangkat ini diprogram menggunakan ArduinoIDE yang berbasis C/C++, dengan memilih ESP32 Dev Module pada bagian board di ArduinoIDE.
+Adapun library depedency yang digunakan diantaranya :
+
+**• Adafruit Sensor** https://github.com/adafruit/Adafruit_Sensor
+
+**• BME280** https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_BME280_Library-1.1.0.zip
+
+**• MAX3010x** https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library
+
+**• SSD1306 Display** https://github.com/ThingPulse/esp8266-oled-ssd1306
+
+**• PubSub Client** https://github.com/knolleary/pubsubclient
+
+**• ArduinoJson v5** https://github.com/bblanchon/ArduinoJson/tree/5.x
+
 
 ## PCB Design
 <p align="center"> 
-  <img width="800" src="https://raw.githubusercontent.com/hendrafauzii/Wearable-Personal-Air-Monitoring/master/Images/layout_board.png">
+  <img width="600" src="https://raw.githubusercontent.com/hendrafauzii/Wearable-Personal-Air-Monitoring/master/Images/layout_board.png">
 </p>
+
 
 ## BOMs
 **• Bagian Atas**
@@ -51,4 +72,7 @@ No | Parts              | Value    | Package          | Qty
 13 | S3                 |	BUT3     |	SIDE_SWITCH	     |  1  |
 14 | S4                 |	BUT4     |	SIDE_SWITCH	     |  1  |
 15 | IC1                |	TP4056   |	SOP-8	           |  1  |
+
+
+## Galeri
 
