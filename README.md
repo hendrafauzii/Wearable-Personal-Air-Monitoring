@@ -6,7 +6,7 @@
  - [Daftar Isi](#Daftar-isi)  
  - [Deskripsi](#Deskripsi) 
  - [PCB Design](#PCB-Design) 
- - [Bill of Materials](#PCB-Design) 
+ - [Bill of Materials](#BOMs) 
 ## Deskripsi
 
 Alat ini dirancang menyerupai sebuah jam tangan bagi penderita sinusitis yang sensitif terhadap perubahan udara. Terdapat beberapa sensor yang digunakan diantaranya  sensor BME280 sebagai pengukuran suhu, kelembapan, dan tekanan udara secara real time, dan MAX30105 sebagai sensor tambahan yang berfungsi untuk mengukur detak jantung. Alat ini akan memberikan notifikasi ketika kondisi udara tidak ideal bagi penderita sinusitis.
@@ -14,6 +14,9 @@ Alat ini dirancang menyerupai sebuah jam tangan bagi penderita sinusitis yang se
 ## PCB Design
 
 ![PCB Design](https://raw.githubusercontent.com/hendrafauzii/Wearable-Personal-Air-Monitoring/master/Images/layout_board.png)
+<p align="center"> 
+  <img width="400" src="https://raw.githubusercontent.com/hendrafauzii/Wearable-Personal-Air-Monitoring/master/Images/layout_board.png">
+</p>
 
 ## BOMs
 - **Bagian Atas**
@@ -35,7 +38,7 @@ No | Parts          | Value       | **Package**              | Qty |
 
 - **Bagian Bawah**
 No | Parts              | Value    | Package          | Qty |
--- | ------------------ | -------- | ---------------- | ---     |
+-- | ------------------ | -------- | ---------------- | --- |
 1  | CHRG, STBY	        | LED      | CHIPLED_0805     |	 2  |
 2  | MAX30100	          | MAX30100 |	MA04-1           |	 1  |
 3  | SV1                | MA05-2   |	MA05-2           |	 1  |
