@@ -7,13 +7,15 @@
  - [Library depedency](#Library-depedency)
  - [PCB Design](#PCB-Design) 
  - [Bill of Materials](#BOMs) 
+ - [Dashboard](#Dasboard-pada-Platform-IoT-XL-Axiata-(Flex-IoT))
+ - [Galeri](#Galeri)
 
 
 ## Deskripsi
 Perangkat ini dirancang pada tahun 2019 yang dibuat menyerupai sebuah jam tangan bagi penderita sinusitis yang sensitif terhadap perubahan udara. Terdapat beberapa sensor yang digunakan diantaranya  sensor BME280 sebagai pengukuran suhu, kelembapan, dan tekanan udara secara real time, dan MAX30105 sebagai sensor tambahan yang berfungsi untuk mengukur detak jantung. Alat ini akan memberikan notifikasi ketika kondisi udara tidak ideal bagi penderita sinusitis.
 
 
-## Library depedency
+## Library Depedency
 Perangkat ini diprogram menggunakan ArduinoIDE yang berbasis C/C++, dengan memilih ESP32 Dev Module pada bagian board di ArduinoIDE.
 Adapun library depedency yang digunakan diantaranya :
 
@@ -31,7 +33,7 @@ Adapun library depedency yang digunakan diantaranya :
 
 
 ## PCB Design
-<p align="center"> 
+<p align="left"> 
   <img width="600" src="https://raw.githubusercontent.com/hendrafauzii/Wearable-Personal-Air-Monitoring/master/Images/layout_board.png">
 </p>
 
@@ -74,5 +76,18 @@ No | Parts              | Value    | Package          | Qty
 15 | IC1                |	TP4056   |	SOP-8	           |  1  |
 
 
+## Dasboard pada Platform IoT XL Axiata (Flex-IoT)
+Perangkat ini dihubungkan dengan Platform IoT XL Axiata [(Flex-IoT)](https://portal.flexiot.xl.co.id/) menggunakan WiFi dengan Protokol MQTT, sehingga dapat dibuat dashboard untuk monitoring seperti yang terlihat pada gambar berikut. 
+
+<p align="left"> 
+  <img width="600" src="https://raw.githubusercontent.com/hendrafauzii/Wearable-Personal-Air-Monitoring/master/Images/dashboard.png">
+</p>
+
+
 ## Galeri
+No |  Gambar                                                                                                            | Keterangan         
+-- |  ----------------------------------------------------------------------------------------------------------------- | ---------------- |
+1  |  <img src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/thinkboard_1.JPG" width="270"> | CHIPLED_0805     |
+2  |  <img src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/thinkboard_6.JPG" width="270"> |	MA04-1           |
+3  |  <img src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/thinkboard_7.JPG" width="270"> |	MA05-2           |
 
