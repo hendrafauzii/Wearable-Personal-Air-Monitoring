@@ -7,7 +7,7 @@
  - [Library Depedency](#Library-depedency)
  - [PCB Design](#PCB-Design) 
  - [Bill of Materials](#BOMs) 
- - [Dashboard](#Dasboard-pada-Platform-IoT-XL-Axiata-(Flex-IoT))
+ - [Dashboard](#dasboard-pada-platform-iot-xl-axiata-flex-iot)
  - [Galeri](#Galeri)
 
 
