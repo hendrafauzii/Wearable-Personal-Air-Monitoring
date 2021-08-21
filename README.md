@@ -16,6 +16,7 @@ Alat ini dirancang menyerupai sebuah jam tangan bagi penderita sinusitis yang se
 </p>
 
 ## BOMs
+--------------------------------------------------------------------
 No | Parts          | Value       | **Package**              | Qty |
 -- | -------------- | ----------- | ------------------------ | --- |
 1  | LED1           | LED         | CHIPLED_0805             |  1  |
@@ -31,7 +32,8 @@ No | Parts          | Value       | **Package**              | Qty |
 11 | Q1, Q2	        | MMBT2222A	  | SOT23                    |  2  |
 12 | X1	            | POWER       | B2B-PH-SM4-TB            |  1  |
 13 | U$2	           | SWITCH	     | MSK-12C02                |  1  |
-=======================================================================
+
+-------------------------------------------------------------
 No | Parts              | Value    | Package          | Qty |
 -- | ------------------ | -------- | ---------------- | --- |
 1  | CHRG, STBY	        | LED      | CHIPLED_0805     |	 2  |
