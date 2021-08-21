@@ -4,7 +4,7 @@
 ## Daftar Isi
  - [Daftar Isi](#Daftar-isi)  
  - [Deskripsi](#Deskripsi) 
- - [Library depedency](#Library-depedency)
+ - [Library Depedency](#Library-depedency)
  - [PCB Design](#PCB-Design) 
  - [Bill of Materials](#BOMs) 
  - [Dashboard](#Dasboard-pada-Platform-IoT-XL-Axiata-(Flex-IoT))
