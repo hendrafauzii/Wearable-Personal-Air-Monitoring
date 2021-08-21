@@ -85,9 +85,12 @@ Perangkat ini dihubungkan dengan Platform IoT XL Axiata [(Flex-IoT)](https://por
 
 
 ## Galeri
-No |  Gambar                                                                                                            | Keterangan         
--- |  ----------------------------------------------------------------------------------------------------------------- | ---------------- |
-1  |  <img src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/thinkboard_1.JPG" width="270"> | CHIPLED_0805     |
-2  |  <img src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/thinkboard_6.JPG" width="270"> |	MA04-1           |
-3  |  <img src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/thinkboard_7.JPG" width="270"> |	MA05-2           |
+No |  Gambar                                                                                                                     | Keterangan         
+-- |  -------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+1  |  <img src="https://github.com/hendrafauzii/Wearable-Personal-Air-Monitoring/blob/master/Images/20190819_1.jpg" width="150"> | Menghubungkan ke WiFi     |
+2  |  <img src="https://github.com/hendrafauzii/Wearable-Personal-Air-Monitoring/blob/master/Images/20190819_2.jpg" width="150"> |	Menghubungkan dengan MQTT |
+3  |  <img src="https://github.com/hendrafauzii/Wearable-Personal-Air-Monitoring/blob/master/Images/20190819_3.jpg" width="150"> |	Tampilan utama berupa suhu lingkungan sekitar,      kelembapan udara, dan jam digital.          |
+4  |  <img src="https://github.com/hendrafauzii/Wearable-Personal-Air-Monitoring/blob/master/Images/20190819_4.jpg" width="150"> | Slide kedua merupakan ***altitude*** atau ketinggian dari permukaan bumi.     |
+5  |  <img src="https://github.com/hendrafauzii/Wearable-Personal-Air-Monitoring/blob/master/Images/20190819_5.jpg" width="150"> |	Slide ketiga merupakan tekanan udara sekitar. |
+6  |  <img src="https://github.com/hendrafauzii/Wearable-Personal-Air-Monitoring/blob/master/Images/20190819_6.jpg" width="150"> |	Pengaturan zona wktu dan batas suhu maksimal dan minimum |
 
