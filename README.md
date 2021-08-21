@@ -12,11 +12,11 @@ Alat ini dirancang menyerupai sebuah jam tangan bagi penderita sinusitis yang se
 
 ## PCB Design
 <p align="center"> 
-  <img width="400" src="https://raw.githubusercontent.com/hendrafauzii/Wearable-Personal-Air-Monitoring/master/Images/layout_board.png">
+  <img width="800" src="https://raw.githubusercontent.com/hendrafauzii/Wearable-Personal-Air-Monitoring/master/Images/layout_board.png">
 </p>
 
 ## BOMs
--Bagian Atas
+**• Bagian Atas**
 No | Parts          | Value       | Package                  | Qty 
 -- | -------------- | ----------- | ------------------------ | --- |
 1  | LED1           | LED         | CHIPLED_0805             |  1  |
@@ -33,7 +33,7 @@ No | Parts          | Value       | Package                  | Qty
 12 | X1	            | POWER       | B2B-PH-SM4-TB            |  1  |
 13 | U$2	           | SWITCH	     | MSK-12C02                |  1  |
 
--Bagian Bawah
+**• Bagian Bawah**
 No | Parts              | Value    | Package          | Qty 
 -- | ------------------ | -------- | ---------------- | --- |
 1  | CHRG, STBY	        | LED      | CHIPLED_0805     |	 2  |
